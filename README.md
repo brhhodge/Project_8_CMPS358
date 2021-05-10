@@ -195,7 +195,7 @@ CountryCode: CAN
 
 0 - Exit
 
-0
+(User Input): 0
 
 Bye!
 
